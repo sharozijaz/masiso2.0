@@ -202,16 +202,20 @@ footer a {
     margin-top: 1.2rem;
     margin-bottom: 2rem;
   }
-
+  .feature p {
+    padding: 1rem;
+  }
   .feature__mobile img {
     height: 20rem;
   }
   .feature__img img {
     width: 2rem;
   }
+
   .feature__txt p {
     font-size: 1rem;
   }
+
   .feature__section {
     display: flex;
     flex-direction: column;
