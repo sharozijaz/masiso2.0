@@ -3,7 +3,9 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
 }
+
 .hero__section {
   display: flex;
   align-items: center;
@@ -11,7 +13,6 @@
   color: white;
   padding: 1.5rem;
   justify-content: space-around;
-  overflow-x: hidden;
 }
 .highlight {
   color: teal;
