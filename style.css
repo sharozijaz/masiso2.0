@@ -183,8 +183,8 @@ footer a {
     flex-direction: column;
   }
   .hero__section--buttons {
-    padding-top: 1rem;
-    padding-bottom: 2rem;
+    padding-top: 0.2rem;
+    padding-bottom: 1rem;
   }
   .hero__section--buttons img {
     width: 200px;
@@ -194,6 +194,7 @@ footer a {
     flex-direction: column;
   }
   .hero__section--text p {
+    padding-top: 1rem;
     font-size: 1.2rem;
   }
   .hero__section--image {
@@ -212,9 +213,14 @@ footer a {
   }
   .feature {
     height: 4rem;
+
     overflow: hidden;
   }
-
+  .feature__section--main {
+    justify-content: space-around;
+    margin-left: -1.2rem;
+    margin-right: -1.2rem;
+  }
   .feature__txt p {
     font-size: 1rem;
   }
