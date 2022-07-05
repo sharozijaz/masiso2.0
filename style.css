@@ -38,6 +38,9 @@
 }
 
 /* Features Section */
+.mobile-on {
+  display: none;
+}
 .feature__section {
   padding: 1.5rem;
 }
