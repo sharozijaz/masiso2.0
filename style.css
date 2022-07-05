@@ -222,4 +222,7 @@ footer a {
     margin: 0.5rem;
     font-size: 0.9rem;
   }
+  footer p {
+    font-size: 1rem;
+  }
 }
