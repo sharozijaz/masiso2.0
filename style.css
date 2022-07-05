@@ -65,6 +65,7 @@
   height: 30rem;
 }
 .feature {
+  padding: 2rem;
   display: flex;
   align-items: center;
 }
@@ -202,14 +203,16 @@ footer a {
     margin-top: 1.2rem;
     margin-bottom: 2rem;
   }
-  .feature p {
-    padding: 1rem;
-  }
+
   .feature__mobile img {
     height: 20rem;
   }
   .feature__img img {
     width: 2rem;
+  }
+  .feature {
+    height: 4rem;
+    overflow: hidden;
   }
 
   .feature__txt p {
