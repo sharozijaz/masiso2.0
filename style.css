@@ -201,4 +201,7 @@ footer a {
   .download img {
     width: 130px;
   }
+  .left {
+    flex-direction: row;
+  }
 }
