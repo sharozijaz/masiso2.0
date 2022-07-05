@@ -227,4 +227,7 @@ footer a {
   footer p {
     font-size: 1rem;
   }
+  .hero__section--text h1 {
+    font-size: 2.5rem;
+  }
 }
