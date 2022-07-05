@@ -182,7 +182,7 @@ footer a {
     flex-direction: column;
   }
   .hero__section--buttons {
-    padding-top: 2rem;
+    padding-top: 1rem;
     padding-bottom: 2rem;
   }
   .hero__section--buttons img {
@@ -192,11 +192,15 @@ footer a {
     text-align: center;
     flex-direction: column;
   }
+  .hero__section--text p {
+    font-size: 1.2rem;
+  }
   .hero__section--image {
     align-items: center;
   }
   .hero__section--image img {
-    margin-top: 1.4rem;
+    margin-top: 1.2rem;
+    margin-bottom: 2rem;
   }
 
   .feature__mobile img {
