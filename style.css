@@ -204,4 +204,20 @@ footer a {
   .left {
     flex-direction: row;
   }
+  .step img {
+    width: 50px;
+  }
+  #numbered {
+    display: none;
+  }
+  .steps__section {
+    align-content: center;
+  }
+  .step {
+    padding: 2rem;
+  }
+  .step p {
+    margin: 0.5rem;
+    font-size: 0.9rem;
+  }
 }
