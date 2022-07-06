@@ -11,7 +11,7 @@
   align-items: center;
   background-color: black;
   color: white;
-  padding: 1.5rem;
+  padding: 3.4rem;
   justify-content: space-around;
 }
 .highlight {
@@ -36,7 +36,7 @@
   height: auto;
 }
 .hero__section--image img {
-  height: 39rem;
+  height: 35rem;
 }
 
 /* Features Section */
