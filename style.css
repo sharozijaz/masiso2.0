@@ -11,7 +11,7 @@
   align-items: center;
   background-color: black;
   color: white;
-  padding: 3.4rem;
+  height: 100vh;
   justify-content: space-around;
 }
 .highlight {
