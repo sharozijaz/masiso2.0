@@ -73,7 +73,7 @@
   padding: 1rem;
 }
 .feature__img img {
-  width: 4rem;
+  width: 3rem;
 }
 .feature__txt p {
   font-size: 1.4rem;
@@ -117,18 +117,7 @@
   text-align: center;
   padding: 2rem;
 }
-/* .circle {
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
-  background-color: white;
-  text-align: center;
-} */
-/* .step i {
-  color: rgb(0, 0, 0);
-  text-align: center;
-  font-size: 7rem;
-} */
+
 .step img {
   width: 8rem;
 }
@@ -200,10 +189,11 @@ footer a {
   }
   .hero__section--buttons {
     padding-top: 0.2rem;
-    padding-bottom: 1rem;
+    padding-bottom: -1rem;
   }
   .hero__section--buttons img {
     width: 180px;
+    margin-top: -1.1rem;
   }
   .hero__section--text {
     text-align: center;
@@ -242,7 +232,9 @@ footer a {
     width: 6rem;
     font-size: 1rem;
   }
-
+  .how__section h2 {
+    font-size: 2rem;
+  }
   .feature__section {
     display: flex;
     flex-direction: column;
