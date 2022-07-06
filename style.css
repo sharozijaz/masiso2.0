@@ -133,8 +133,12 @@
   width: 8rem;
 }
 .step p {
+  margin-top: 1.1rem;
   color: rgb(255, 255, 255);
   font-size: 1.4rem;
+}
+.numbered {
+  padding-right: 0.5rem;
 }
 /* Footer */
 footer {
@@ -259,7 +263,7 @@ footer a {
   .step img {
     width: 90px;
   }
-  #numbered {
+  .numbered {
     display: none;
   }
   .steps__section {
